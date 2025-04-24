@@ -21,7 +21,7 @@ A simple Python tool that checks if the **VALORANT** servers are down or working
 ### Setup:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/valorant-server-status-checker.git
+   git clone https://github.com/ParmeetBhamrah/valorant-server-status-checker.git
    cd valorant-server-status-checker
    ```
 
